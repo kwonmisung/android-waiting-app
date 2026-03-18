@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SOOK Waiting</string>
+
+    <string-array name="functions">
+        <item>청소</item>
+        <item>단골손님</item>
+        <item>서비스</item>
+        <item>컴플레인</item>
+    </string-array>
+
+    <string name="c1">OrderKitchen</string>
+    <string name="c2">OrderHall</string>
+    <string name="title_login">로그인</string>
+    <string name="title_guest">회원가입</string>
+    <string name="title_waiting">웨이팅 등록</string>
+    <string name="title_settings">관리자 설정</string>
+    <string name="title_waitlist">웨이팅 목록</string>
+    <string name="title_management">매장 관리</string>
+    <string name="title_order">물품 발주 시스템</string>
+    <string name="title_orderkitchen">주방 식재료</string>
+    <string name="title_orderhall">홀 소모품</string>
+    <string name="title_orderfin">발주 결과</string>
+    <string name="title_sales">매출 입력</string>
+    <string name="title_chart">매출 관리</string>
+    <string name="title_logout">로그아웃</string>
+
+</resources>
