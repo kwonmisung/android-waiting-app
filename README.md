@@ -78,7 +78,8 @@
 
 매장관리, 물품발주, 매출관리
 
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/3e339799-8e36-4d7c-a4ad-4f0d53cf6f5c" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ae687d0d-3c72-4943-b3b6-9bc2bdbbae9f" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/b1b5cfd8-ad26-4c9e-8f5b-b0b959920513" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ace9aa15-dcec-4d39-8388-820310575438" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/c6156ca2-c4a9-4ee1-88a8-4dcb6b66888e" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/479129ff-29e1-4451-9b36-edd25bba89ca" />
+<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/3e339799-8e36-4d7c-a4ad-4f0d53cf6f5c" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ae687d0d-3c72-4943-b3b6-9bc2bdbbae9f" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/b1b5cfd8-ad26-4c9e-8f5b-b0b959920513" />
+<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ace9aa15-dcec-4d39-8388-820310575438" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/c6156ca2-c4a9-4ee1-88a8-4dcb6b66888e" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/479129ff-29e1-4451-9b36-edd25bba89ca" />
 
 
 
