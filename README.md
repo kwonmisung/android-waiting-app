@@ -101,4 +101,4 @@
 
 1. 프로젝트 클론
 ```bash
-git clone https://github.com/여기에-아이디/android-waiting-app.git
+git clone https://github.com/kwonmisung/android-waiting-app.git
