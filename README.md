@@ -72,6 +72,15 @@
 
 ---
 
+## extra screenshots
+
+![start](./waiting_screenshots/main.png)
+![login](./waiting_screenshots/login.png) ![quest](./waiting_screenshots/guest.png)
+![waiting_num](./waiting_screenshots/waiting_num.png) ![waiting](./waiting_screenshots/waiting.png)
+![menu](./waiting_screenshots/manager_menu.png)
+
+---
+
 ## 📌 실행 방법
 
 1. 프로젝트 클론
