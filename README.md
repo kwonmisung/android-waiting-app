@@ -32,6 +32,16 @@
 
 ---
 
+## 📸 Screenshots
+
+
+![start](./waiting_screenshots/main.png)
+![login](./waiting_screenshots/login.png) ![quest](./waiting_screenshots/guest.png)
+![waiting_num](./waiting_screenshots/waiting_num.png) ![waiting](./waiting_screenshots/waiting.png)
+![menu](./waiting_screenshots/manager_menu.png)
+
+---
+
 ## 🛠 담당 역할
 
 - Firebase Authentication 기반 로그인/회원가입 기능 구현  
@@ -59,42 +69,6 @@
 - Firebase 기반 실시간 데이터 동기화 처리
 - 사용자 입력 → DB 저장 → UI 반영 흐름 설계
 - RecyclerView를 활용한 동적 리스트 처리
-
----
-
-## 📸 Screenshots
-
-로그인, 회원가입, 로그아웃
-
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/e67fac4e-4c48-45dc-8eae-8bf9bae030d6" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/6fc69115-9959-4b71-9dde-6aa2772e1286" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/d0e19ac7-3b8b-4f8c-a00e-87840b21dc8e" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/48176358-93fc-4a31-84ba-f28986b59271" />
-
-웨이팅 (손님)
-
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/c492fcbd-6418-4bb6-bd03-8cf6fde40258" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/5a35dd3c-9f2f-4447-8213-86000ed58ca0" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/dbd811d1-fdee-4df6-bf17-27ff20318a24" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/5857c58c-03a2-4e0d-af7e-2dd37deff3ad" />
-
-관리자 메뉴 및 웨이팅 목록
-
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/2a34f3fd-cd37-406c-9ba9-9fea9a1accac" />  <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/1d7a2118-b592-4eaa-b608-b86d3e79e34e" /> 
-
-매장관리, 물품발주, 매출관리
-
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/3e339799-8e36-4d7c-a4ad-4f0d53cf6f5c" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ae687d0d-3c72-4943-b3b6-9bc2bdbbae9f" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/b1b5cfd8-ad26-4c9e-8f5b-b0b959920513" />
-<img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/ace9aa15-dcec-4d39-8388-820310575438" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/c6156ca2-c4a9-4ee1-88a8-4dcb6b66888e" /> <img width="106" height="218" alt="image" src="https://github.com/user-attachments/assets/479129ff-29e1-4451-9b36-edd25bba89ca" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
