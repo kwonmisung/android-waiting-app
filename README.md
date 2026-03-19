@@ -38,7 +38,7 @@
 ![start](./waiting_screenshots/main.png)
 ![login](./waiting_screenshots/login.png) ![quest](./waiting_screenshots/guest.png)
 ![waiting_num](./waiting_screenshots/waiting_num.png) ![waiting](./waiting_screenshots/waiting.png)
-![menu](./waiting_screenshots/manager_menu.png)
+![menu](./waiting_screenshots/manager_menu.png) ![waitinglist](./waiting_screenshots/waiting_list.png) ![msg](./waiting_screenshots/waiting_msg.png)
 
 ---
 
@@ -74,10 +74,10 @@
 
 ## extra screenshots
 
-![start](./waiting_screenshots/main.png)
-![login](./waiting_screenshots/login.png) ![quest](./waiting_screenshots/guest.png)
-![waiting_num](./waiting_screenshots/waiting_num.png) ![waiting](./waiting_screenshots/waiting.png)
-![menu](./waiting_screenshots/manager_menu.png)
+![table](./waiting_screenshots/manage_table.png)
+![table2](./waiting_screenshots/manage_table2.png) ![order](./waiting_screenshots/order.png)
+![order_finish](./waiting_screenshots/order_finish.png) ![sales](./waiting_screenshots/sales.png)
+![sales_graph](./waiting_screenshots/sales_graph.png)
 
 ---
 
