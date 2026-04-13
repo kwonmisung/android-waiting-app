@@ -34,11 +34,12 @@
 
 ## 📸 Screenshots
 
-
-![start](./waiting_screenshots/main.png)
-![login](./waiting_screenshots/login.png) ![quest](./waiting_screenshots/guest.png)
-![waiting_num](./waiting_screenshots/waiting_num.png) ![waiting](./waiting_screenshots/waiting.png)
-![menu](./waiting_screenshots/manager_menu.png) ![waitinglist](./waiting_screenshots/waiting_list.png) ![msg](./waiting_screenshots/waiting_msg.png)
+<p align="center">
+  <img src="./waiting_screenshots/main.png" width="200"/>
+  <img src="./waiting_screenshots/guest.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_num.png" width="200"/>
+  <img src="./waiting_screenshots/waiting.png" width="200"/>
+</p>
 
 ---
 
@@ -74,10 +75,17 @@
 
 ## extra screenshots
 
-![table](./waiting_screenshots/manage_table.png)
-![table2](./waiting_screenshots/manage_table2.png) ![order](./waiting_screenshots/order.png)
-![order_finish](./waiting_screenshots/order_finish.png) ![sales](./waiting_screenshots/sales.png)
-![sales_graph](./waiting_screenshots/sales_graph.png)
+<p align="center">
+  <img src="./waiting_screenshots/manager_menu.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_list.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_msg.png" width="200"/>
+  <img src="./waiting_screenshots/manage_table1.png" width="200"/>
+  <img src="./waiting_screenshots/manage_table2.png" width="200"/>
+  <img src="./waiting_screenshots/order.png" width="200"/>
+  <img src="./waiting_screenshots/order_finish.png" width="200"/>
+  <img src="./waiting_screenshots/sales.png" width="200"/>
+  <img src="./waiting_screenshots/sales_graph.png" width="200"/>
+</p>
 
 ---
 
