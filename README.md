@@ -86,6 +86,7 @@
   <img src="./waiting_screenshots/order_finish.png" width="200"/>
   <img src="./waiting_screenshots/sales.png" width="200"/>
   <img src="./waiting_screenshots/sales_graph.png" width="200"/>
+  <img src="./waiting_screenshots/logout.png" width="200"/>
 </p>
 
 ---
