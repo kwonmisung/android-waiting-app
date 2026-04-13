@@ -39,6 +39,10 @@
   <img src="./waiting_screenshots/guest.png" width="200"/>
   <img src="./waiting_screenshots/waiting_num.png" width="200"/>
   <img src="./waiting_screenshots/waiting.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_ok.png" width="200"/>
+  <img src="./waiting_screenshots/settings.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_list.png" width="200"/>
+  <img src="./waiting_screenshots/waiting_msg.png" width="200"/>
 </p>
 
 ---
@@ -76,9 +80,6 @@
 ## extra screenshots
 
 <p align="center">
-  <img src="./waiting_screenshots/manager_menu.png" width="200"/>
-  <img src="./waiting_screenshots/waiting_list.png" width="200"/>
-  <img src="./waiting_screenshots/waiting_msg.png" width="200"/>
   <img src="./waiting_screenshots/manage_table1.png" width="200"/>
   <img src="./waiting_screenshots/manage_table2.png" width="200"/>
   <img src="./waiting_screenshots/order.png" width="200"/>
